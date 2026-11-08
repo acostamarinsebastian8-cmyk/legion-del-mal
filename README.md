@@ -15,3 +15,7 @@ No nos une el caos, nos une el orden absoluto. Nuestro plan no se basa en gritar
 - **Lealtad absoluta:** No hay espacio para traidores ni para héroes con capa.
 - **Mente sobre músculo:** Un buen plan vale más que mil puños.
 - **Silencio:** Lo que pasa en la guarida, se queda en la guarida. 
+
+## Miembro
+
+1. **Julian Stiven** - fundador y estratega principal.
