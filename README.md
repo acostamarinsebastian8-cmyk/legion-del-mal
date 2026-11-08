@@ -20,3 +20,5 @@ No nos une el caos, nos une el orden absoluto. Nuestro plan no se basa en gritar
 
 1. **Julian Stiven** - fundador y estratega principal.
 2. **Ana Acosta** - presidente de la compañia.
+3. **Pedro Paz** - portador del poder.
+4. **Sandra Perez** - Prueba de commit anterior.
