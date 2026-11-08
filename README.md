@@ -1,24 +1,67 @@
-## Nuestros Objetivos
+# 🦹‍♂️ La Legión del Mal
 
-No nos une el caos, nos une el orden absoluto. Nuestro plan no se basa en gritar en las calles, sino en ejecutar operaciones quirúrgicas que los "defensores de la justicia" ni siquiera verán venir. 
+> _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
+> — Lex Luthor, fundador
 
-1. **Dominación de la información:** Controlar los flujos de datos de las principales ciudades para anticipar cualquier movimiento heroico.
-2. **Desarrollo de armamento superior:** Construir dispositivos (como el Proyecto Omega) que vuelvan obsoletos los escudos de los héroes.
-3. **Expansión del sindicato:** Reclutar a mentes brillantes que hayan sido rechazadas o incomprendidas por la sociedad.
+## ¿Quiénes somos?
 
-## Manifiesto de la Legión
+Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
-> "Nos llaman villanos porque no seguimos sus reglas. Pero cuando el mundo esté bajo nuestro control y el orden reine, ellos serán los que nos pidan ayuda. La paz solo se consigue con mano firme."
+## Estructura de la organización
+
+```
+📁 planes/          → Operaciones aprobadas por el Consejo
+📁 miembros/        → Fichas de cada miembro activo
+📁 guaridas/        → Ubicaciones y estado de nuestras bases
+📁 inteligencia/    → Expedientes de los héroes enemigos
+📄 misiones.yaml    → Estado global de todas las misiones
+```
+
+## El Consejo de Villanos
+
+| Rango                     | Miembro    | Rol                                                     |
+| ------------------------- | ---------- | ------------------------------------------------------- |
+| 🥇 Líder supremo          | Lex Luthor | Fundador, financista y estratega principal              |
+| 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
+| 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
+| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
+
+## Miembros activos (campo)
+
+- **Joker** — Operaciones de distracción y caos
+- **Doctor Doom** — Armamento avanzado y magia
+- **Loki** — Engaño, ilusiones y diplomacia hostil
+- **Catwoman** — Robos de alta precisión
+- **Venom** — Fuerza bruta y operaciones de intimidación
+- **Green** - Tecnologia avanzada tacticas de terror
 
 ## Reglas de la Legión
 
-- **Lealtad absoluta:** No hay espacio para traidores ni para héroes con capa.
-- **Mente sobre músculo:** Un buen plan vale más que mil puños.
-- **Silencio:** Lo que pasa en la guarida, se queda en la guarida. 
+1. **Todo plan debe tener un plan de escape.** Sin excepciones.
+2. **Nada se ejecuta sin aprobación del Consejo.** Todos los planes pasan por revisión antes de llegar a `main`.
+3. **Los códigos de lanzamiento JAMÁS se suben al repositorio.** El que los suba será entregado a Batman.
+4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
+5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
 
-## Miembro
+## Estado actual
 
-1. **Julian Stiven** - fundador y estratega principal.
-2. **Ana Acosta** - presidente de la compañia.
-3. **Pedro Paz** - portador del poder.
-4. **Sandra Perez** - Prueba de commit anterior.
+📡 **Misión activa:** Operación Banco Mundial
+🔬 **En desarrollo:** Satélite Congelador
+📋 **En planificación:** Proyecto Krypton (clonar a Superman)
+
+## Enemigos principales
+
+La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedientes de inteligencia sobre cada uno están en la carpeta `/inteligencia`.
+
+**No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor.
+
+## Banderas de estado:
+
+- 🟢 Operativa
+- 🟡 En desarrollo
+- 🔴 En planificación
+- 🔴 En desarrollo
+
+---
+
+_Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
