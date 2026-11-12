@@ -1,5 +1,4 @@
 ![Estático](https://img.shields.io/badge/Legion--del--Mal-Ultima--Version-blue)
-
 ![Con logo](https://img.shields.io/badge/Git-2.56-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/acostamarinsebastian8-cmyk/legion-del-mal/ci.yml)
