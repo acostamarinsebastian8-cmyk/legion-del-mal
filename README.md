@@ -7,7 +7,11 @@
 ![Último commit](https://img.shields.io/github/last-commit/acostamarinsebastian8-cmyk/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/acostamarinsebastian8-cmyk/legion-del-mal?cacheSeconds=60)
 
+<<<<<<< HEAD
 # 🦹‍♂️ La Legión del Mal - desde remoto
+=======
+# 🦹‍♂️ La Legión del Mal - Desde local
+>>>>>>> cf14a9f (fix: actualizar README desde el local)
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
