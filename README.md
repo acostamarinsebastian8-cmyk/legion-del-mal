@@ -3,11 +3,10 @@
 ![Con logo](https://img.shields.io/badge/Git-2.55-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/acostamarinsebastian8-cmyk/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/acostamarinsebastian8-cmyk/legion-del-mal)
+![Etiquetas](https://img.shields.io/github/v/tag/acostamarinsebastian8-cmyk/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/acostamarinsebastian8-cmyk/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/acostamarinsebastian8-cmyk/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/acostamarinsebastian8-cmyk/legion-del-mal)
-
+![Licencia](https://img.shields.io/github/license/acostamarinsebastian8-cmyk/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
